@@ -1,6 +1,6 @@
 # ObjectDetection
  
-This is a Yolov3 Object Detection Program. Its v3 because I made this a while back. It has two versions -
+This is a Yolov3 Object Detection Program. It has two versions -
 
 i) Heavy (More CPU Intensive, More Storage and More Accurate)
 Make sure to download the [Weights](https://pjreddie.com/media/files/yolov3-spp.weights) (if your PC can handle it) into the heavy folder.
